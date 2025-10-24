@@ -35,13 +35,13 @@ Dibuat menggunakan Apache NetBeans, MySQL (XAMPP), dan dikompilasi menjadi file 
 ## 📸 Tampilan Aplikasi
 
 ### 🪟 Tampilan Utama
-![Tampilan Utama](aset/tampilan_utama.png)
+![Tampilan Utama](aset/Tampilan_Utama.png)
 
 ### 🎟️ Tampilan Pesan Tiket
-![Tampilan Pesan Tiket](aset/tampilan_pesan_tiket.png)
+![Tampilan Pesan Tiket](aset/Tampilan_Pesan_Tiket.png)
 
 ### 👥 Tampilan Menu Staff
-![Tampilan Menu Staff](aset/tampilan_menu_staff.png)
+![Tampilan Menu Staff](aset/Tampilan_Menu_Staff.png)
 
 > **Note:**  
 > Login Menu Staff  
